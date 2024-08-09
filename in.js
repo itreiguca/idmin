@@ -1,0 +1,1 @@
+filter((lineObject) => lineObject !== null)
